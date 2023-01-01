@@ -1,0 +1,2 @@
+web ansible_host=ip-172-31-55-147
+local ansible_connection=local
